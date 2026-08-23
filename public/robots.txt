@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: /isaacjkennedy.com/sitemap.xml
+Sitemap: /sitemap.xml
