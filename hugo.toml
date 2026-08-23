@@ -31,7 +31,7 @@ enableEmoji = true
 
 [params.author]
   name = "Isaac Kennedy"
-  about = "about-isaac"
+  #about = "about-isaac"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -149,5 +149,5 @@ enableEmoji = true
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about/"
     weight = 20

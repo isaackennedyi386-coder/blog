@@ -2,8 +2,8 @@
 title: "setup"
 slug: "setup"
 date: 2026-08-23T00:11:15-04:00
-draft: true
-comments: false
+draft: false
+comments: true
 featuredImg: ""
 ImgCopyright: ""
 images: []
@@ -44,8 +44,8 @@ Details for the **tip** can be entered here
 # H1
 ## H2
 ### H3
-Bold	**bold text**
-Italic	*italicized text*
+**bold**
+*italicized text*
 Blockquote	> blockquote
 Ordered List	
 1. First item
