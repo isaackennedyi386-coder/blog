@@ -2,22 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-23T00:46:04-04:00</lastmod>
+    <loc>https://isaacjkennedy.com/about/</loc>
+    <lastmod>2026-09-01T00:11:39-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-08-23T00:46:04-04:00</lastmod>
+    <loc>https://isaacjkennedy.com/</loc>
+    <lastmod>2026-09-01T00:11:39-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/setup/</loc>
-    <lastmod>2026-08-23T00:46:04-04:00</lastmod>
+    <loc>https://isaacjkennedy.com/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-08-23T00:46:04-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/untagged/</loc>
-    <lastmod>2026-08-23T00:46:04-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-08-23T00:46:04-04:00</lastmod>
+    <loc>https://isaacjkennedy.com/tags/</loc>
   </url>
 </urlset>
