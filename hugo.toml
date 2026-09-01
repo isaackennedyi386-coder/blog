@@ -18,7 +18,7 @@ pygmentsCodefences  = true
 pygmentsUseClasses  = true
 #hasCJKLanguage = true
 
-rssLimit = 10
+rssLimit = 100
 
 #copyright = "CHANGE ME"
 enableEmoji = true
@@ -31,7 +31,7 @@ enableEmoji = true
 
 [params.author]
   name = "Isaac Kennedy"
-  #about = "about-isaac"
+  about = "about"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -57,14 +57,14 @@ enableEmoji = true
 
 [params]
   # description = "CHANGE ME SITE DESCRIPTION"
-  # images = [""]
-  themeColor = "#8ebf9b"
+  # images = ["IMG_20210611_175646741_HDR"]
+  themeColor = "#2d402b"
   accentColor = "#018472"
 
   homeSubtitle = "Coming Soon..."
   #footerCopyright = "CHANGE ME FOOTER COPYRIGHT"
-  # footerHideThemeName = true
-  # bgImg = ""
+  footerHideThemeName = false
+  #bgImg = "IMG_20210611_175646741_HDR"
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
   justifyContent = false
   code_copy_button = true

@@ -6,134 +6,46 @@
 		<description>Recent content on Isaac Kennedy</description>
 		<generator>Hugo -- 0.165.0</generator>
 		<language>en</language>
-		<lastBuildDate>Sun, 23 Aug 2026 00:11:15 -0400</lastBuildDate>
 		<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 		
-		
-		<item>
-			<title>setup</title>
-			<link>http://localhost:1313/posts/setup/</link>
-			<pubDate>Sun, 23 Aug 2026 00:11:15 -0400</pubDate><author>Isaac Kennedy</author><guid>http://localhost:1313/posts/setup/</guid>
-			<description>&lt;h2 id=&#34;add-a-summary&#34;&gt;Add a Summary&lt;a href=&#34;#add-a-summary&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
-      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather&#34;&gt;
-      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;
-      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;
-   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;details class=&#34;admonition summary&#34;&gt;
-    &lt;summary class=&#34;admonition-title&#34;&gt;&lt;span class=&#34;icon summary-arrow&#34; aria-hidden=&#34;true&#34;&gt;&amp;#9654;&lt;/span&gt;&lt;b&gt;Summary headline&lt;/b&gt;&lt;/summary&gt;
-    &lt;div class=&#34;admonition-content&#34;&gt;Example summary&lt;/div&gt;
-&lt;/details&gt;
-&lt;h2 id=&#34;add-tooltip-sections&#34;&gt;Add Tooltip sections&lt;a href=&#34;#add-tooltip-sections&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
-      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather&#34;&gt;
-      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;
-      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;
-   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;aside class=&#34;admonition tip&#34;&gt;
-    &lt;div class=&#34;admonition-title&#34;&gt;&lt;span class=&#34;icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34;
-      stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather feather-sun&#34;&gt;
-      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;5&#34;&gt;&lt;/circle&gt;
-      &lt;line x1=&#34;12&#34; y1=&#34;1&#34; x2=&#34;12&#34; y2=&#34;3&#34;&gt;&lt;/line&gt;
-      &lt;line x1=&#34;12&#34; y1=&#34;21&#34; x2=&#34;12&#34; y2=&#34;23&#34;&gt;&lt;/line&gt;
-      &lt;line x1=&#34;4.22&#34; y1=&#34;4.22&#34; x2=&#34;5.64&#34; y2=&#34;5.64&#34;&gt;&lt;/line&gt;
-      &lt;line x1=&#34;18.36&#34; y1=&#34;18.36&#34; x2=&#34;19.78&#34; y2=&#34;19.78&#34;&gt;&lt;/line&gt;
-      &lt;line x1=&#34;1&#34; y1=&#34;12&#34; x2=&#34;3&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;
-      &lt;line x1=&#34;21&#34; y1=&#34;12&#34; x2=&#34;23&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;
-      &lt;line x1=&#34;4.22&#34; y1=&#34;19.78&#34; x2=&#34;5.64&#34; y2=&#34;18.36&#34;&gt;&lt;/line&gt;
-      &lt;line x1=&#34;18.36&#34; y1=&#34;5.64&#34; x2=&#34;19.78&#34; y2=&#34;4.22&#34;&gt;&lt;/line&gt;
-   &lt;/svg&gt;&lt;/span&gt;&lt;b&gt;Admonition tip&lt;/b&gt;&lt;/div&gt;
-    &lt;div class=&#34;admonition-content&#34;&gt;Details for the &lt;strong&gt;tip&lt;/strong&gt; can be entered here&lt;/div&gt;
-&lt;/aside&gt;
-&lt;h1 id=&#34;h1&#34;&gt;H1&lt;a href=&#34;#h1&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
-      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather&#34;&gt;
-      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;
-      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;
-   &lt;/svg&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;h2&#34;&gt;H2&lt;a href=&#34;#h2&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
-      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather&#34;&gt;
-      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;
-      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;
-   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;h3&#34;&gt;H3&lt;a href=&#34;#h3&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
-      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather&#34;&gt;
-      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;
-      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;
-   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt;
-&lt;em&gt;italicized text&lt;/em&gt;
-Blockquote	&amp;gt; blockquote
-Ordered List&lt;/p&gt;</description><content type="text/html" mode="escaped"><![CDATA[<h2 id="add-a-summary">Add a Summary<a href="#add-a-summary" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round" class="feather">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h2>
-<details class="admonition summary">
-    <summary class="admonition-title"><span class="icon summary-arrow" aria-hidden="true">&#9654;</span><b>Summary headline</b></summary>
-    <div class="admonition-content">Example summary</div>
-</details>
-<h2 id="add-tooltip-sections">Add Tooltip sections<a href="#add-tooltip-sections" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round" class="feather">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h2>
-<aside class="admonition tip">
-    <div class="admonition-title"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sun">
-      <circle cx="12" cy="12" r="5"></circle>
-      <line x1="12" y1="1" x2="12" y2="3"></line>
-      <line x1="12" y1="21" x2="12" y2="23"></line>
-      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-      <line x1="1" y1="12" x2="3" y2="12"></line>
-      <line x1="21" y1="12" x2="23" y2="12"></line>
-      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-   </svg></span><b>Admonition tip</b></div>
-    <div class="admonition-content">Details for the <strong>tip</strong> can be entered here</div>
-</aside>
-<h1 id="h1">H1<a href="#h1" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round" class="feather">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h1>
-<h2 id="h2">H2<a href="#h2" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round" class="feather">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h2>
-<h3 id="h3">H3<a href="#h3" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round" class="feather">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h3>
-<p><strong>bold</strong>
-<em>italicized text</em>
-Blockquote	&gt; blockquote
-Ordered List</p>
-<ol>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item
-Unordered List</li>
-</ol>
-<ul>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item
-Code	<code>code</code></li>
-</ul>
-]]></content>
-		</item>
 		
 		<item>
 			<title>About</title>
 			<link>http://localhost:1313/about/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Isaac Kennedy</author><guid>http://localhost:1313/about/</guid>
-			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="hi-there">Hi there!<a href="#hi-there" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h2 id="me">Me<a href="#me" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round" class="feather">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h1>
-<p>This page is just placeholder for now. Will fill in later.</p>
+   </svg></a></h2>
+
+
+
+
+    
+    
+
+<figure class=""><picture>
+            <source srcset="/images/face_lm_hu_50f6c22f97d18481.webp" type="image/webp">
+            <source srcset="/images/face_lm_hu_62439171a5efcd11.jpg"  type="image/jpeg">
+            <img src="/images/face_lm_hu_50f6c22f97d18481.webp" alt="August 2026. A hazy morning on the southern shore of Lake Michigan" width="300" height="400"
+                decoding="async" />
+        </picture><figcaption><h4>August 2026. A hazy morning on the southern shore of Lake Michigan</h4></figcaption></figure>
+<h3 id="hi-there">Hi there!<a href="#hi-there" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>I&rsquo;m a technical writer based in northwest Indiana. I&rsquo;m originally from Nashville. In my free time, I play tennis and pickleball, explore new parts of the region, and maintain my aquariums. I&rsquo;m currently taking a B2-level course in Spanish. That&rsquo;s pretty much what I&rsquo;m up to these days. I have various other interests as well, but I&rsquo;ll leave it at that for now.</p>
+<h2 id="this-site">This site<a href="#this-site" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>is protean (at least for now), subject to change at my whim. Think of it as social media. Except I own the place and so there&rsquo;s no algorithm slop, ads, et cetera.
+Whether you&rsquo;re a family member or friend or just someone who Googled me for whatever reason, this is where you can see what I&rsquo;ve been doing, my takes, where my head&rsquo;s at in a general sense.</p>
+<p>Stick around and you might see reviews, treatises, rants, or even an occasional windshield reverie that was good enough to type out and post.
+There may be frequent changes to the content, theme, or overall look of the site. Expect a slight roughness around the edges.</p>
 ]]></content>
 		</item>
 		

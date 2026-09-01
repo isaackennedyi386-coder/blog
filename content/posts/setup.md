@@ -2,11 +2,10 @@
 title: "setup"
 slug: "setup"
 date: 2026-08-23T00:11:15-04:00
-draft: false
+draft: true
 comments: true
 featuredImg: ""
-ImgCopyright: ""
-images: []
+images:
 description: ""
 tags:
   - untagged
@@ -28,7 +27,7 @@ noIndex: false
 keywords: []
 readTime: true
 ---
-
+![A scenic view](/setup/JC.jpg)
 ## Add a Summary
 
 {{< admonition type=summary title="Summary headline" >}}

@@ -14,7 +14,8 @@
 			<title>setup</title>
 			<link>http://localhost:1313/posts/setup/</link>
 			<pubDate>Sun, 23 Aug 2026 00:11:15 -0400</pubDate><author>Isaac Kennedy</author><guid>http://localhost:1313/posts/setup/</guid>
-			<description>&lt;h2 id=&#34;add-a-summary&#34;&gt;Add a Summary&lt;a href=&#34;#add-a-summary&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
+			<description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/setup/JC.jpg&#34; alt=&#34;A scenic view&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;add-a-summary&#34;&gt;Add a Summary&lt;a href=&#34;#add-a-summary&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
       stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather&#34;&gt;
       &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;
       &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;
@@ -61,7 +62,8 @@
 &lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt;
 &lt;em&gt;italicized text&lt;/em&gt;
 Blockquote	&amp;gt; blockquote
-Ordered List&lt;/p&gt;</description><content type="text/html" mode="escaped"><![CDATA[<h2 id="add-a-summary">Add a Summary<a href="#add-a-summary" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+Ordered List&lt;/p&gt;</description><content type="text/html" mode="escaped"><![CDATA[<p><img src="/setup/JC.jpg" alt="A scenic view"></p>
+<h2 id="add-a-summary">Add a Summary<a href="#add-a-summary" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round" class="feather">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
