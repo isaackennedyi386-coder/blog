@@ -56,7 +56,7 @@ enableEmoji = true
 
 
 [params]
-  # description = "CHANGE ME SITE DESCRIPTION"
+  description = "My personal website"
   # images = ["IMG_20210611_175646741_HDR"]
   themeColor = "#2d402b"
   accentColor = "#018472"
