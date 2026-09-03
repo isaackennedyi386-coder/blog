@@ -56,15 +56,15 @@ enableEmoji = true
 
 
 [params]
-  description = "My personal website"
-  images = ["IMG_20210611_175646741_HDR"]
+  description = "My personal blog"
+  images = ["images/JC.jpg"]
   themeColor = "#2d402b"
   accentColor = "#018472"
 
   homeSubtitle = "Coming Soon..."
-  #footerCopyright = "CHANGE ME FOOTER COPYRIGHT"
-  footerHideThemeName = false
-  #bgImg = "IMG_20210611_175646741_HDR"
+  footerCopyright = "Made with Hugo & Hermit-V2"
+  footerHideThemeName = true
+  #bgImg = "images/JC.jpg"
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
   justifyContent = false
   code_copy_button = true
